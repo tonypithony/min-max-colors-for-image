@@ -1,4 +1,4 @@
-> conda activate OPENCV
+> conda activate OPENCV  
 > voila Untitled.ipynb
 
 # source photo
